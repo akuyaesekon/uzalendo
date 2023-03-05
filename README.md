@@ -3,7 +3,7 @@
 
 A new Flutter project.
 
-## Getting Started
+## KENYA YETU
 
 This project is is crime-based application that is aimed at lowering cases of crimes.
 The main scope/ the target group are the police ,federal bodies and the common mwananchi.
